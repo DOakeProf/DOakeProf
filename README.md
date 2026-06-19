@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+Hello! I'm Daniel, a student currently at SMU Guildhall whos studying to become a software developer for video games. My goal is to create unique and memorable titles with exciting technical features. Below is a list of some of the projects I've worked on, check them out!
+
+### Repositories
+**Doomenstein**
+https://github.com/DOakeProf/Doomenstein 
+This project was my first 3D project inspired by old school Doom and Wolfenstein. I've also thrown in some weapons and enemies from other game franchises that I enjoy, including a boss fight.
 
 <!--
 **DOakeProf/DOakeProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
