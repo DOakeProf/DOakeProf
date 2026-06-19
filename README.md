@@ -1,7 +1,7 @@
 ## About Me
 Hello! I'm Daniel, a student currently at SMU Guildhall whos studying to become a software developer for video games. My goal is to create unique and memorable titles with exciting technical features. Below is a list of some of the projects I've worked on, check them out!
 
-<img src="Images/Headshot.png" width="200" alt="Profile Picture">
+<img src="Images/Headshot.png" width="800" alt="Profile Picture">
 
 ### Repositories
 - **Doomenstein**  
